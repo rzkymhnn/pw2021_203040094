@@ -1,0 +1,20 @@
+/* Nama : Rizky Mahendra
+NRP : 203040094
+Shift Praktikum : Kamis pukul 08:00 */
+
+table {
+    border: 1px solid black;
+}
+
+td,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: justify;
+}
+
+img {
+    height: 250px;
+}
